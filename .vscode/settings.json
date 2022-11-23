@@ -1,0 +1,4 @@
+{
+    "idf.portWin": "COM5",
+    "cmake.sourceDirectory": "${workspaceFolder}/ESPfiles/hello_world"
+}
